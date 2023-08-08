@@ -1,3 +1,5 @@
+# Hi!! I'm Samarth Kashyap 
+# I'm a Full-Stack Developer
 # 💫 About Me:
 🔭 I’m currently working on Glog a Blogsite<br><br>🌱 I’m currently learning React<br><br>📫 How to reach me samarthkashyap318@gmail.com
 
